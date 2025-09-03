@@ -15,7 +15,7 @@ It provides authentication, role-based access (users & admins), and an interacti
 
 ⚡ Frontend: Built with React + Vite.
 
-🌐 Backend: Node.js, Express, and MongoDB.
+🌐 Backend: Node.js, Express, and MySQL.
 
 🎨 UI/UX: Responsive design with reusable components.
 
